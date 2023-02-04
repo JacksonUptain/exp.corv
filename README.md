@@ -1,2 +1,3 @@
 # exp.corv
-This is my experiment of A-frame 3d modles and such.
+This is my experiment of A-frame 3d models and such
+
