@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chevrolet Corvette
+* source:	https://sketchfab.com/3d-models/chevrolet-corvette-a1b738b341f44ad8829fd10d9da5e6ff
+* author:	samsidparty (https://sketchfab.com/samsidparty)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chevrolet Corvette" (https://sketchfab.com/3d-models/chevrolet-corvette-a1b738b341f44ad8829fd10d9da5e6ff) by samsidparty (https://sketchfab.com/samsidparty) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
