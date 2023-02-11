@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hummingbird | Flying
+* source:	https://sketchfab.com/3d-models/hummingbird-flying-4e6d591f6e50493aa5e31355084fc4e8
+* author:	TadenStar (https://sketchfab.com/tadenstar)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hummingbird | Flying" (https://sketchfab.com/3d-models/hummingbird-flying-4e6d591f6e50493aa5e31355084fc4e8) by TadenStar (https://sketchfab.com/tadenstar) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

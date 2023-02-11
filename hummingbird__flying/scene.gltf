@@ -1,0 +1,6005 @@
+{
+  "accessors": [
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2174,
+      "max": [
+        2.6935348510742188,
+        2.073913097381592,
+        3.486441135406494
+      ],
+      "min": [
+        -2.6298601627349854,
+        -2.0443801879882813,
+        -3.509681463241577
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 26088,
+      "componentType": 5126,
+      "count": 2174,
+      "max": [
+        0.9979032874107361,
+        0.9998424649238586,
+        0.999917209148407
+      ],
+      "min": [
+        -0.9930362701416016,
+        -0.9990789294242859,
+        -0.999917209148407
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2174,
+      "max": [
+        0.9036920666694641,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 9336,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 13,
+      "max": [
+        1.0,
+        0.8330876231193542,
+        0.9772689938545227,
+        0.0,
+        0.9883713722229004,
+        1.0,
+        0.9951531887054443,
+        0.0,
+        1.0000417232513428,
+        0.9608992338180542,
+        1.0,
+        0.0,
+        1.445756435394287,
+        0.922709047794342,
+        0.4241616129875183,
+        1.0
+      ],
+      "min": [
+        -0.9818902611732483,
+        -0.9883715510368347,
+        -4.272349940492859e-07,
+        0.0,
+        -0.9764124751091003,
+        -0.7850844860076904,
+        -0.06450155377388,
+        0.0,
+        -0.18943902850151062,
+        -0.9608996510505676,
+        -0.20195305347442627,
+        0.0,
+        -1.674582839012146,
+        -1.151432752609253,
+        -1.3290669918060303,
+        1.0
+      ],
+      "type": "MAT4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5123,
+      "count": 2174,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 2174,
+      "max": [
+        1.0,
+        0.5,
+        0.30323266983032227,
+        0.2023581862449646
+      ],
+      "min": [
+        0.2890607416629791,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 893,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 893,
+      "max": [
+        4.938382148742676,
+        6.931456089019775,
+        8.52602767944336
+      ],
+      "min": [
+        -3.8715908527374268,
+        -5.630063056945801,
+        0.00038940052036195993
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 3572,
+      "componentType": 5126,
+      "count": 893,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 893,
+      "max": [
+        0.3431342840194702,
+        0.5803686380386353,
+        0.6589324474334717,
+        0.965079665184021
+      ],
+      "min": [
+        -0.7515771389007568,
+        -0.6189444065093994,
+        0.1538286954164505,
+        0.387348473072052
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 7144,
+      "componentType": 5126,
+      "count": 885,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 10716,
+      "componentType": 5126,
+      "count": 885,
+      "max": [
+        1.383145809173584,
+        1.383146047592163,
+        1.383145809173584
+      ],
+      "min": [
+        1.3831452131271362,
+        1.3831453323364258,
+        1.3831449747085571
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 10684,
+      "componentType": 5126,
+      "count": 893,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 21336,
+      "componentType": 5126,
+      "count": 893,
+      "max": [
+        9.974733075068798e-07,
+        0.6032900810241699,
+        4.768390908793663e-07
+      ],
+      "min": [
+        -8.370617479158682e-07,
+        0.6032882928848267,
+        -4.768356518525252e-07
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 14256,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 14288,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        0.14234811067581177,
+        0.13560177385807037,
+        -0.09073086082935333,
+        0.9949210286140442
+      ],
+      "min": [
+        -0.08192521333694458,
+        -0.17328166961669922,
+        -0.16381166875362396,
+        0.9703731536865234
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 18224,
+      "componentType": 5126,
+      "count": 990,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 32052,
+      "componentType": 5126,
+      "count": 990,
+      "max": [
+        1.000000238418579,
+        1.000000238418579,
+        1.0
+      ],
+      "min": [
+        0.9999998211860657,
+        0.9999997019767761,
+        0.9999995827674866
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 22184,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 43932,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        8.743784292164491e-07,
+        0.576322078704834,
+        9.536594802739273e-07
+      ],
+      "min": [
+        -1.179176365440071e-06,
+        0.5763202905654907,
+        -4.768521648657043e-07
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 26152,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 30160,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        0.023317240178585052,
+        0.0038529811426997185,
+        0.5676632523536682,
+        0.8594233393669128
+      ],
+      "min": [
+        1.4061117781238863e-07,
+        1.8103371246525057e-07,
+        0.5112646222114563,
+        0.8229215741157532
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 30120,
+      "componentType": 5126,
+      "count": 986,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 55836,
+      "componentType": 5126,
+      "count": 986,
+      "max": [
+        0.9999999403953552,
+        1.000000238418579,
+        1.0000001192092896
+      ],
+      "min": [
+        0.999999463558197,
+        0.9999997615814209,
+        0.9999997615814209
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 34064,
+      "componentType": 5126,
+      "count": 893,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 67668,
+      "componentType": 5126,
+      "count": 893,
+      "max": [
+        9.841421615419677e-07,
+        0.6032900810241699,
+        7.152276566557703e-07
+      ],
+      "min": [
+        -9.405641776538687e-07,
+        0.6032881736755371,
+        -7.152242460506386e-07
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 37636,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 46032,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        -0.6944410800933838,
+        -0.04961596056818962,
+        -0.7049663066864014,
+        0.11515606194734573
+      ],
+      "min": [
+        -0.702538788318634,
+        -0.08667813241481781,
+        -0.7071848511695862,
+        0.06218729913234711
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 41604,
+      "componentType": 5126,
+      "count": 990,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 78384,
+      "componentType": 5126,
+      "count": 990,
+      "max": [
+        0.9999584555625916,
+        1.0000001192092896,
+        1.0
+      ],
+      "min": [
+        0.9999580383300781,
+        0.9999995827674866,
+        0.9999997019767761
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 45564,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 90264,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        7.153093406486732e-07,
+        1.0482083559036255,
+        6.457651693381194e-07
+      ],
+      "min": [
+        -9.536209404359397e-07,
+        1.048205852508545,
+        -5.927139454797725e-07
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 49532,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 61904,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        0.017658885568380356,
+        0.00606717262417078,
+        0.02068595215678215,
+        0.9998388886451721
+      ],
+      "min": [
+        -0.037544313818216324,
+        0.00316081871278584,
+        0.010777154006063938,
+        0.9992318749427795
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 53500,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 102168,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        1.000000238418579,
+        1.0,
+        0.9999999403953552
+      ],
+      "min": [
+        0.9999997019767761,
+        0.9999995231628418,
+        0.9999995231628418
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 57468,
+      "componentType": 5126,
+      "count": 991,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 114072,
+      "componentType": 5126,
+      "count": 991,
+      "max": [
+        1.0729096402428695e-06,
+        0.7535338401794434,
+        1.037847027873795e-06
+      ],
+      "min": [
+        -9.536480547467363e-07,
+        0.7535309195518494,
+        -8.698415854269115e-07
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 61432,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 77776,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        0.13903263211250305,
+        -0.013745395466685295,
+        0.06719100475311279,
+        0.9978417158126831
+      ],
+      "min": [
+        0.04853121191263199,
+        -0.023982707411050797,
+        0.04204435274004936,
+        0.9877145886421204
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 65400,
+      "componentType": 5126,
+      "count": 982,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 125964,
+      "componentType": 5126,
+      "count": 982,
+      "max": [
+        1.000000238418579,
+        1.000000238418579,
+        1.000000238418579
+      ],
+      "min": [
+        0.9999997615814209,
+        0.9999997615814209,
+        0.9999998211860657
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 69328,
+      "componentType": 5126,
+      "count": 892,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 137748,
+      "componentType": 5126,
+      "count": 892,
+      "max": [
+        7.549081146862591e-07,
+        0.6032899618148804,
+        8.108216320579231e-07
+      ],
+      "min": [
+        -1.0105770797963487e-06,
+        0.6032882928848267,
+        -6.450658815992938e-07
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 72896,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 93648,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        0.33814650774002075,
+        0.8471953868865967,
+        0.5836585760116577,
+        0.3806058168411255
+      ],
+      "min": [
+        0.273007869720459,
+        0.6632862091064453,
+        0.33765119314193726,
+        0.23218227922916412
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 76864,
+      "componentType": 5126,
+      "count": 986,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 148452,
+      "componentType": 5126,
+      "count": 986,
+      "max": [
+        1.0000001192092896,
+        1.0000003576278687,
+        1.0000001192092896
+      ],
+      "min": [
+        0.9999997615814209,
+        1.0,
+        0.9999997615814209
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 80808,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 160284,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        1.2717018762486987e-06,
+        0.6967505812644958,
+        9.256143584934762e-07
+      ],
+      "min": [
+        -8.860070579430612e-07,
+        0.6967481970787048,
+        -4.915490308121662e-07
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 84776,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 109520,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        0.24393834173679352,
+        0.014073852449655533,
+        0.2358388453722,
+        0.9450213313102722
+      ],
+      "min": [
+        -0.3141130805015564,
+        -0.014254236593842506,
+        0.21731466054916382,
+        0.9195188879966736
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 88744,
+      "componentType": 5126,
+      "count": 990,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 172188,
+      "componentType": 5126,
+      "count": 990,
+      "max": [
+        1.0000001192092896,
+        0.9999999403953552,
+        1.0000001192092896
+      ],
+      "min": [
+        0.9999995827674866,
+        0.9999995827674866,
+        0.9999996423721313
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 92704,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 184068,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        9.643129033065634e-07,
+        0.9615890383720398,
+        8.200739216590591e-07
+      ],
+      "min": [
+        -1.0389803719590418e-06,
+        0.9615865349769592,
+        -1.0832314956132905e-06
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 96672,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 125392,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        0.10349991172552109,
+        0.053353965282440186,
+        0.09616558253765106,
+        0.9898349046707153
+      ],
+      "min": [
+        -0.17895831167697906,
+        -0.05768466740846634,
+        0.07865839451551437,
+        0.9776909351348877
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 100640,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 195972,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        1.0,
+        1.0000001192092896,
+        0.9999998211860657
+      ],
+      "min": [
+        0.9999995231628418,
+        0.9999996423721313,
+        0.9999994039535522
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 104608,
+      "componentType": 5126,
+      "count": 893,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 207876,
+      "componentType": 5126,
+      "count": 893,
+      "max": [
+        8.382266969420016e-07,
+        0.6032900214195251,
+        7.113652600310161e-07
+      ],
+      "min": [
+        -9.42220026445284e-07,
+        0.6032882928848267,
+        -7.7761865213688e-07
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 108180,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 141264,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        0.015620922669768333,
+        0.7767429947853088,
+        -0.4776058793067932,
+        0.4102669656276703
+      ],
+      "min": [
+        -0.20019307732582092,
+        0.7441537380218506,
+        -0.6124652028083801,
+        0.17619407176971436
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 112148,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 218592,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "min": [
+        0.9999997615814209,
+        0.9999996423721313,
+        0.9999997019767761
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 116116,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 230496,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        6.354638912853261e-07,
+        0.6967499852180481,
+        8.313805324178247e-07
+      ],
+      "min": [
+        -7.709087981311313e-07,
+        0.6967483758926392,
+        -8.508280302521598e-07
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 120084,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 157136,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        0.30261752009391785,
+        -0.4577139616012573,
+        0.1231025755405426,
+        0.8269016742706299
+      ],
+      "min": [
+        0.07314565032720566,
+        -0.4696030914783478,
+        -0.3859231173992157,
+        0.790687084197998
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 124052,
+      "componentType": 5126,
+      "count": 984,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 242400,
+      "componentType": 5126,
+      "count": 984,
+      "max": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "min": [
+        0.9999997019767761,
+        0.9999997615814209,
+        0.9999997615814209
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 127988,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 254208,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        9.328972510047606e-07,
+        0.9615893363952637,
+        3.831791275388241e-07
+      ],
+      "min": [
+        -9.906380000757053e-07,
+        0.9615874290466309,
+        -6.678985187136277e-07
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 131956,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 173008,
+      "componentType": 5126,
+      "count": 992,
+      "max": [
+        0.12926088273525238,
+        0.008028808049857616,
+        -0.013820469379425049,
+        0.9914818406105042
+      ],
+      "min": [
+        -0.10346744954586029,
+        -0.10226203501224518,
+        -0.17483802139759064,
+        0.9737908840179443
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 135924,
+      "componentType": 5126,
+      "count": 990,
+      "max": [
+        41.29166793823242
+      ],
+      "min": [
+        0.0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "byteOffset": 266112,
+      "componentType": 5126,
+      "count": 990,
+      "max": [
+        1.000000238418579,
+        1.0000003576278687,
+        1.0000001192092896
+      ],
+      "min": [
+        0.9999998211860657,
+        0.9999998211860657,
+        0.9999996423721313
+      ],
+      "type": "VEC3"
+    }
+  ],
+  "animations": [
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 8,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 8,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 2,
+          "target": {
+            "node": 8,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 3,
+          "target": {
+            "node": 9,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 4,
+          "target": {
+            "node": 9,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 5,
+          "target": {
+            "node": 9,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 6,
+          "target": {
+            "node": 10,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 7,
+          "target": {
+            "node": 10,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 8,
+          "target": {
+            "node": 10,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 9,
+          "target": {
+            "node": 11,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 10,
+          "target": {
+            "node": 11,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 11,
+          "target": {
+            "node": 11,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 12,
+          "target": {
+            "node": 12,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 13,
+          "target": {
+            "node": 12,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 14,
+          "target": {
+            "node": 12,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 15,
+          "target": {
+            "node": 13,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 16,
+          "target": {
+            "node": 13,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 17,
+          "target": {
+            "node": 13,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 18,
+          "target": {
+            "node": 14,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 19,
+          "target": {
+            "node": 14,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 20,
+          "target": {
+            "node": 14,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 21,
+          "target": {
+            "node": 15,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 22,
+          "target": {
+            "node": 15,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 23,
+          "target": {
+            "node": 15,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 24,
+          "target": {
+            "node": 16,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 25,
+          "target": {
+            "node": 16,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 26,
+          "target": {
+            "node": 16,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 27,
+          "target": {
+            "node": 17,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 28,
+          "target": {
+            "node": 17,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 29,
+          "target": {
+            "node": 17,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 30,
+          "target": {
+            "node": 18,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 31,
+          "target": {
+            "node": 18,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 32,
+          "target": {
+            "node": 18,
+            "path": "scale"
+          }
+        },
+        {
+          "sampler": 33,
+          "target": {
+            "node": 19,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 34,
+          "target": {
+            "node": 19,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 35,
+          "target": {
+            "node": 19,
+            "path": "scale"
+          }
+        }
+      ],
+      "name": "05_Colibri_Bird.001Action",
+      "samplers": [
+        {
+          "input": 7,
+          "interpolation": "LINEAR",
+          "output": 8
+        },
+        {
+          "input": 9,
+          "interpolation": "LINEAR",
+          "output": 10
+        },
+        {
+          "input": 11,
+          "interpolation": "LINEAR",
+          "output": 12
+        },
+        {
+          "input": 13,
+          "interpolation": "LINEAR",
+          "output": 14
+        },
+        {
+          "input": 15,
+          "interpolation": "LINEAR",
+          "output": 16
+        },
+        {
+          "input": 17,
+          "interpolation": "LINEAR",
+          "output": 18
+        },
+        {
+          "input": 19,
+          "interpolation": "LINEAR",
+          "output": 20
+        },
+        {
+          "input": 21,
+          "interpolation": "LINEAR",
+          "output": 22
+        },
+        {
+          "input": 23,
+          "interpolation": "LINEAR",
+          "output": 24
+        },
+        {
+          "input": 25,
+          "interpolation": "LINEAR",
+          "output": 26
+        },
+        {
+          "input": 27,
+          "interpolation": "LINEAR",
+          "output": 28
+        },
+        {
+          "input": 29,
+          "interpolation": "LINEAR",
+          "output": 30
+        },
+        {
+          "input": 31,
+          "interpolation": "LINEAR",
+          "output": 32
+        },
+        {
+          "input": 33,
+          "interpolation": "LINEAR",
+          "output": 34
+        },
+        {
+          "input": 35,
+          "interpolation": "LINEAR",
+          "output": 36
+        },
+        {
+          "input": 37,
+          "interpolation": "LINEAR",
+          "output": 38
+        },
+        {
+          "input": 39,
+          "interpolation": "LINEAR",
+          "output": 40
+        },
+        {
+          "input": 41,
+          "interpolation": "LINEAR",
+          "output": 42
+        },
+        {
+          "input": 43,
+          "interpolation": "LINEAR",
+          "output": 44
+        },
+        {
+          "input": 45,
+          "interpolation": "LINEAR",
+          "output": 46
+        },
+        {
+          "input": 47,
+          "interpolation": "LINEAR",
+          "output": 48
+        },
+        {
+          "input": 49,
+          "interpolation": "LINEAR",
+          "output": 50
+        },
+        {
+          "input": 51,
+          "interpolation": "LINEAR",
+          "output": 52
+        },
+        {
+          "input": 53,
+          "interpolation": "LINEAR",
+          "output": 54
+        },
+        {
+          "input": 55,
+          "interpolation": "LINEAR",
+          "output": 56
+        },
+        {
+          "input": 57,
+          "interpolation": "LINEAR",
+          "output": 58
+        },
+        {
+          "input": 59,
+          "interpolation": "LINEAR",
+          "output": 60
+        },
+        {
+          "input": 61,
+          "interpolation": "LINEAR",
+          "output": 62
+        },
+        {
+          "input": 63,
+          "interpolation": "LINEAR",
+          "output": 64
+        },
+        {
+          "input": 65,
+          "interpolation": "LINEAR",
+          "output": 66
+        },
+        {
+          "input": 67,
+          "interpolation": "LINEAR",
+          "output": 68
+        },
+        {
+          "input": 69,
+          "interpolation": "LINEAR",
+          "output": 70
+        },
+        {
+          "input": 71,
+          "interpolation": "LINEAR",
+          "output": 72
+        },
+        {
+          "input": 73,
+          "interpolation": "LINEAR",
+          "output": 74
+        },
+        {
+          "input": 75,
+          "interpolation": "LINEAR",
+          "output": 76
+        },
+        {
+          "input": 77,
+          "interpolation": "LINEAR",
+          "output": 78
+        }
+      ]
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "TadenStar (https://sketchfab.com/tadenstar)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/hummingbird-flying-4e6d591f6e50493aa5e31355084fc4e8",
+      "title": "Hummingbird | Flying"
+    },
+    "generator": "Sketchfab-12.78.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 17392,
+      "byteStride": 8,
+      "name": "shortBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 37344,
+      "byteOffset": 17392,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 17392,
+      "byteOffset": 54736,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 52176,
+      "byteOffset": 72128,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 34784,
+      "byteOffset": 124304,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 832,
+      "byteOffset": 159088,
+      "name": "floatBufferViews"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 139884,
+      "byteOffset": 159920,
+      "name": "floatBufferViews"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 277992,
+      "byteOffset": 299804,
+      "byteStride": 12,
+      "name": "floatBufferViews"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 188880,
+      "byteOffset": 577796,
+      "byteStride": 16,
+      "name": "floatBufferViews"
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 766676,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/05_Colibri_Bird_Body_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "05_Colibri_Bird_Body",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "JOINTS_0": 5,
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2,
+            "WEIGHTS_0": 6
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.0480605773627758,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0671591912986456e-17,
+        -0.0480605773627758,
+        0.0,
+        0.0,
+        0.0480605773627758,
+        1.0671591912986456e-17,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3,
+        20,
+        88,
+        156,
+        181
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "05_Colibri_Bird.001_13"
+    },
+    {
+      "children": [
+        5,
+        7,
+        6
+      ],
+      "name": "GLTF_created_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": "GLTF_created_0_rootJoint"
+    },
+    {
+      "name": "05_Colibri.001_12"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_7",
+      "skin": 0
+    },
+    {
+      "children": [
+        9,
+        11,
+        14,
+        17
+      ],
+      "name": "Body.001_11",
+      "rotation": [
+        4.803853670409808e-08,
+        -9.919597587781936e-09,
+        0.2619566321372986,
+        0.965079665184021
+      ],
+      "scale": [
+        1.3831454515457153,
+        1.3831455707550049,
+        1.3831452131271362
+      ],
+      "translation": [
+        -0.3645201325416565,
+        0.39561402797698975,
+        0.00038940052036195993
+      ]
+    },
+    {
+      "children": [
+        10
+      ],
+      "name": "Neck.001_1",
+      "rotation": [
+        0.10593437403440475,
+        -0.031216593459248543,
+        -0.09646114706993103,
+        0.989190936088562
+      ],
+      "scale": [
+        1.0,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "translation": [
+        8.859962008500588e-08,
+        0.6032891869544983,
+        1.7568854357441488e-12
+      ]
+    },
+    {
+      "name": "Head.001_0",
+      "rotation": [
+        1.591108684806386e-07,
+        1.9268297535290912e-07,
+        0.5112646222114563,
+        0.8594233393669128
+      ],
+      "scale": [
+        0.9999997615814209,
+        0.9999999403953552,
+        1.0
+      ],
+      "translation": [
+        2.3115542813201273e-10,
+        0.5763212442398071,
+        -1.4915798374204314e-08
+      ]
+    },
+    {
+      "children": [
+        12
+      ],
+      "name": "Ass_01.001_4",
+      "rotation": [
+        -0.7025387287139893,
+        -0.04961598664522171,
+        -0.7071847915649414,
+        0.06218728423118591
+      ],
+      "scale": [
+        0.9999583959579468,
+        0.9999998807907104,
+        1.0
+      ],
+      "translation": [
+        -2.4396648257152265e-08,
+        0.6032890677452087,
+        3.0828440494845566e-11
+      ]
+    },
+    {
+      "children": [
+        13
+      ],
+      "name": "Ass_02.001_3",
+      "rotation": [
+        -0.03754429891705513,
+        0.0031608326826244593,
+        0.010777169838547707,
+        0.9992318749427795
+      ],
+      "scale": [
+        0.9999998211860657,
+        0.9999997615814209,
+        0.9999997019767761
+      ],
+      "translation": [
+        5.338653130682047e-11,
+        1.0482072830200195,
+        6.0414819813559e-08
+      ]
+    },
+    {
+      "name": "Tail.001_2",
+      "rotation": [
+        0.04853123798966408,
+        -0.013745412230491638,
+        0.042044367641210556,
+        0.9978417158126831
+      ],
+      "scale": [
+        0.9999997615814209,
+        1.0,
+        1.0000001192092896
+      ],
+      "translation": [
+        -3.6992364726984306e-09,
+        0.7535324096679688,
+        1.8469540563614828e-08
+      ]
+    },
+    {
+      "children": [
+        15
+      ],
+      "name": "Wing_L_01.001_7",
+      "rotation": [
+        0.3381464183330536,
+        0.8471953868865967,
+        0.33765122294425964,
+        0.2321823239326477
+      ],
+      "scale": [
+        1.0,
+        1.000000238418579,
+        1.0
+      ],
+      "translation": [
+        4.997664149186676e-08,
+        0.6032890677452087,
+        1.129316462566976e-08
+      ]
+    },
+    {
+      "children": [
+        16
+      ],
+      "name": "Wing_L_02.001_6",
+      "rotation": [
+        0.24393822252750397,
+        -0.01425420492887497,
+        0.2173146903514862,
+        0.9450213313102722
+      ],
+      "scale": [
+        0.9999999403953552,
+        0.9999999403953552,
+        0.9999998807907104
+      ],
+      "translation": [
+        -7.498163512309475e-08,
+        0.6967492699623108,
+        1.620675149638373e-08
+      ]
+    },
+    {
+      "name": "Wing_L_03.001_5",
+      "rotation": [
+        0.1034998670220375,
+        -0.05768461152911186,
+        0.07865842431783676,
+        0.9898349046707153
+      ],
+      "scale": [
+        0.9999996423721313,
+        0.9999998807907104,
+        0.9999997019767761
+      ],
+      "translation": [
+        5.312307393978699e-08,
+        0.9615879058837891,
+        -1.2032474572265528e-08
+      ]
+    },
+    {
+      "children": [
+        18
+      ],
+      "name": "Wing_R_01.001_10",
+      "rotation": [
+        0.015620875172317028,
+        0.7767429351806641,
+        -0.477605938911438,
+        0.4102669358253479
+      ],
+      "scale": [
+        1.0,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "translation": [
+        -1.0173886622055761e-08,
+        0.6032891273498535,
+        -5.643987943670936e-09
+      ]
+    },
+    {
+      "children": [
+        19
+      ],
+      "name": "Wing_R_02.001_9",
+      "rotation": [
+        0.30261746048927307,
+        -0.4577139616012573,
+        0.12310245633125305,
+        0.8269016742706299
+      ],
+      "scale": [
+        0.9999999403953552,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        -1.3338737225865316e-08,
+        0.6967493295669556,
+        -1.6191952667554688e-08
+      ]
+    },
+    {
+      "name": "Wing_R_03.001_8",
+      "rotation": [
+        0.12926085293293,
+        0.008028768934309483,
+        -0.01382049173116684,
+        0.9914819002151489
+      ],
+      "scale": [
+        0.9999998807907104,
+        1.0,
+        0.9999997615814209
+      ],
+      "translation": [
+        2.5083792820623785e-08,
+        0.9615882635116577,
+        -1.345097899729808e-07
+      ]
+    },
+    {
+      "children": [
+        21,
+        69,
+        70,
+        72,
+        74,
+        75,
+        76,
+        77,
+        79
+      ],
+      "name": "05_Colibri_Bird.002_81"
+    },
+    {
+      "children": [
+        22,
+        64,
+        65,
+        66,
+        67,
+        68
+      ],
+      "name": "BigBranch_Root.001_61",
+      "rotation": [
+        -0.08291587978601456,
+        -0.543691873550415,
+        -0.38658398389816284,
+        0.7403222322463989
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0000001192092896
+      ],
+      "translation": [
+        -7.042405605316162,
+        -7.696889877319336,
+        -0.4943867623806
+      ]
+    },
+    {
+      "children": [
+        23,
+        41
+      ],
+      "name": "BigBranch_01.001_55",
+      "rotation": [
+        -0.179103285074234,
+        -0.0540609210729599,
+        -0.11148983985185623,
+        0.9759966731071472
+      ],
+      "scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        0.9999998807907104
+      ],
+      "translation": [
+        4.544558862562553e-07,
+        3.4804978370666504,
+        -3.9918631955515593e-07
+      ]
+    },
+    {
+      "children": [
+        24,
+        39,
+        40
+      ],
+      "name": "BigBranch_02.001_31",
+      "rotation": [
+        0.0011019310913980007,
+        -0.016393279656767845,
+        -0.02203037217259407,
+        0.9996222853660583
+      ],
+      "scale": [
+        1.0,
+        0.9999999403953552,
+        1.0
+      ],
+      "translation": [
+        2.5526759372951346e-08,
+        1.6229052543640137,
+        -3.303208586658002e-07
+      ]
+    },
+    {
+      "children": [
+        25,
+        37,
+        38
+      ],
+      "name": "BigBranch_03.001_28",
+      "rotation": [
+        -0.14123445749282837,
+        -0.010955157689750195,
+        -0.03303764760494232,
+        0.9893641471862793
+      ],
+      "scale": [
+        0.9999998211860657,
+        0.9999998211860657,
+        0.9999998211860657
+      ],
+      "translation": [
+        3.369492560523213e-07,
+        1.2515424489974976,
+        2.63918934706453e-07
+      ]
+    },
+    {
+      "children": [
+        26
+      ],
+      "name": "BigBranch_04.001_25",
+      "rotation": [
+        -0.08068821579217911,
+        -0.0014010501326993108,
+        0.1283785104751587,
+        0.9884364604949951
+      ],
+      "scale": [
+        1.0000001192092896,
+        0.9999999403953552,
+        1.0000001192092896
+      ],
+      "translation": [
+        1.5701846223237226e-07,
+        1.7909151315689087,
+        -5.695865183952264e-07
+      ]
+    },
+    {
+      "children": [
+        27,
+        33,
+        34,
+        35
+      ],
+      "name": "BigBranch_05.001_24",
+      "rotation": [
+        -0.15837250649929047,
+        0.005874517373740673,
+        -0.04291611164808273,
+        0.9864288568496704
+      ],
+      "scale": [
+        1.0,
+        0.9999999403953552,
+        1.0
+      ],
+      "translation": [
+        -8.20426606651381e-08,
+        2.298910140991211,
+        -1.0620027524055331e-07
+      ]
+    },
+    {
+      "children": [
+        28
+      ],
+      "name": "BigBranch_06.001_19",
+      "rotation": [
+        0.47378280758857727,
+        0.06353019922971725,
+        0.08788494020700455,
+        0.8739393353462219
+      ],
+      "scale": [
+        1.0000001192092896,
+        1.0,
+        0.9999999403953552
+      ],
+      "translation": [
+        -2.6743862235889537e-07,
+        1.498831868171692,
+        -6.775665042368928e-07
+      ]
+    },
+    {
+      "children": [
+        29
+      ],
+      "name": "BigBranch_07.001_18",
+      "rotation": [
+        -0.15284542739391327,
+        -0.009138555265963078,
+        -0.015419183298945427,
+        0.9880875945091248
+      ],
+      "translation": [
+        5.960464477539063e-08,
+        1.4320824146270752,
+        -1.1920928955078125e-07
+      ]
+    },
+    {
+      "children": [
+        30
+      ],
+      "name": "BigBranch_08.001_17",
+      "rotation": [
+        0.33157214522361755,
+        0.03281979262828827,
+        0.2020416259765625,
+        0.920957088470459
+      ],
+      "scale": [
+        0.9999999403953552,
+        0.9999999403953552,
+        1.0
+      ],
+      "translation": [
+        -3.982653424827731e-07,
+        1.1441224813461304,
+        -2.363448174946825e-07
+      ]
+    },
+    {
+      "children": [
+        31
+      ],
+      "name": "BigBranch_09.001_16",
+      "rotation": [
+        0.20953212678432465,
+        0.032446663826704025,
+        0.03809055685997009,
+        0.9765207171440125
+      ],
+      "scale": [
+        0.9999999403953552,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        -6.692965826005093e-07,
+        1.2327536344528198,
+        -1.0354847290727776e-06
+      ]
+    },
+    {
+      "children": [
+        32
+      ],
+      "name": "BigBranch_10.001_15",
+      "rotation": [
+        0.3422452509403229,
+        0.05707492679357529,
+        0.17476065456867218,
+        0.921449601650238
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        0.9999998807907104
+      ],
+      "translation": [
+        6.027396182162192e-08,
+        1.145497441291809,
+        -4.740042243156495e-07
+      ]
+    },
+    {
+      "name": "BigBranch_Flower_01.001_14",
+      "rotation": [
+        0.06505266577005386,
+        0.002641294151544571,
+        0.15845252573490143,
+        0.9852177500724792
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0000001192092896
+      ],
+      "translation": [
+        4.810590326087549e-08,
+        0.7941505312919617,
+        1.4777486967432196e-07
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_11.001_20",
+      "rotation": [
+        0.624914824962616,
+        -0.16232724487781525,
+        -0.07951728254556656,
+        0.7594789862632751
+      ],
+      "translation": [
+        -4.2087998508577584e-07,
+        1.498832106590271,
+        -2.617307472974062e-07
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_12.001_21",
+      "rotation": [
+        0.8190694451332092,
+        -0.11711545288562775,
+        0.5002607107162476,
+        0.25524193048477173
+      ],
+      "scale": [
+        0.999999463558197,
+        0.9999998807907104,
+        0.9999998211860657
+      ],
+      "translation": [
+        -4.2333758187851345e-07,
+        1.4988319873809814,
+        -5.111793370815576e-07
+      ]
+    },
+    {
+      "children": [
+        36
+      ],
+      "name": "BigBranch_Leaf_13.001_23",
+      "rotation": [
+        0.29285410046577454,
+        -0.005395064130425453,
+        -0.03375717252492905,
+        0.9555458426475525
+      ],
+      "scale": [
+        1.0000001192092896,
+        0.9999999403953552,
+        1.0000001192092896
+      ],
+      "translation": [
+        -5.275660441839136e-08,
+        1.4988319873809814,
+        -4.789621357303986e-07
+      ]
+    },
+    {
+      "name": "BigBranchLeaf_13_01.001_22",
+      "rotation": [
+        -0.18473437428474426,
+        -0.036156050860881805,
+        0.026052171364426613,
+        0.9817776083946228
+      ],
+      "scale": [
+        1.0,
+        1.000000238418579,
+        1.0
+      ],
+      "translation": [
+        -6.446019256145519e-07,
+        1.4271022081375122,
+        2.0605577333299152e-07
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_08.001_26",
+      "rotation": [
+        0.5525120496749878,
+        0.2907167077064514,
+        0.28120484948158264,
+        0.7287922501564026
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        0.9999999403953552
+      ],
+      "translation": [
+        1.6391277313232422e-07,
+        1.7909151315689087,
+        -8.940696716308594e-08
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_09.001_27",
+      "rotation": [
+        -0.6904704570770264,
+        -0.04054604843258858,
+        0.0902014970779419,
+        0.7165684103965759
+      ],
+      "scale": [
+        1.0000001192092896,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        -2.75566577556674e-07,
+        1.7909150123596191,
+        1.7653124473326898e-07
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_06.001_29",
+      "rotation": [
+        0.4943925440311432,
+        0.0006064880290068686,
+        0.2621404826641083,
+        0.8287690281867981
+      ],
+      "scale": [
+        1.0,
+        1.0000001192092896,
+        0.9999999403953552
+      ],
+      "translation": [
+        6.371364520418865e-07,
+        1.2515422105789185,
+        -6.193340595928021e-08
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_07.001_30",
+      "rotation": [
+        -0.5327678322792053,
+        -0.03477538749575615,
+        -0.1853300780057907,
+        0.8249859809875488
+      ],
+      "scale": [
+        0.9999999403953552,
+        1.0,
+        0.9999998807907104
+      ],
+      "translation": [
+        5.491904175869422e-07,
+        1.2515422105789185,
+        3.594130930650863e-07
+      ]
+    },
+    {
+      "children": [
+        42,
+        63
+      ],
+      "name": "BigBranch_02_01.001_54",
+      "rotation": [
+        -0.4575261175632477,
+        -0.07912289351224899,
+        -0.0800948217511177,
+        0.8820398449897766
+      ],
+      "scale": [
+        0.9999998807907104,
+        1.0,
+        0.9999999403953552
+      ],
+      "translation": [
+        -1.4044462659512646e-07,
+        1.6229052543640137,
+        -4.709039558292716e-07
+      ]
+    },
+    {
+      "children": [
+        43,
+        53
+      ],
+      "name": "BigBranch._02_02.001_52",
+      "rotation": [
+        0.2627973258495331,
+        0.04215224087238312,
+        0.022422686219215393,
+        0.9636690616607666
+      ],
+      "scale": [
+        0.9999999403953552,
+        0.9999998211860657,
+        1.0
+      ],
+      "translation": [
+        2.181301113068912e-07,
+        1.2498300075531006,
+        7.988078323251102e-07
+      ]
+    },
+    {
+      "children": [
+        44
+      ],
+      "name": "BigBranch_02_03_01.001_41",
+      "rotation": [
+        -0.397153377532959,
+        0.1438259780406952,
+        -0.16300557553768158,
+        0.8916347026824951
+      ],
+      "scale": [
+        0.9999998211860657,
+        0.9999999403953552,
+        1.0
+      ],
+      "translation": [
+        -5.33866398200189e-07,
+        0.6060412526130676,
+        8.490651453030296e-07
+      ]
+    },
+    {
+      "children": [
+        45
+      ],
+      "name": "BigBranch_02_03_02.001_40",
+      "rotation": [
+        0.02764078415930271,
+        -0.00822464283555746,
+        0.033572643995285034,
+        0.9990202188491821
+      ],
+      "scale": [
+        1.0,
+        0.9999998807907104,
+        1.0
+      ],
+      "translation": [
+        1.643461189360096e-07,
+        0.9467163681983948,
+        1.306739392248346e-07
+      ]
+    },
+    {
+      "children": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "name": "BigBranch_02_03_Flower_03.001_39",
+      "rotation": [
+        0.0769859030842781,
+        0.00906980037689209,
+        -0.18469691276550293,
+        0.9797336459159851
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        0.9999999403953552
+      ],
+      "translation": [
+        -3.361543008395529e-07,
+        1.1266433000564575,
+        5.661145863200545e-08
+      ]
+    },
+    {
+      "name": "BigBranch_02_03_Flower_03_Petal_01.001_32",
+      "rotation": [
+        0.41803178191185,
+        -0.15375618636608124,
+        0.6197185516357422,
+        0.646186888217926
+      ],
+      "scale": [
+        1.0000001192092896,
+        1.0,
+        1.0000001192092896
+      ],
+      "translation": [
+        -4.801676709575986e-07,
+        0.763442873954773,
+        1.6761404708631744e-07
+      ]
+    },
+    {
+      "name": "BigBranch_02_03_Flower_03_Petal_02.001_33",
+      "rotation": [
+        -0.07853434234857559,
+        0.021985234692692757,
+        -0.22215460240840912,
+        0.9715947508811951
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        0.9999999403953552
+      ],
+      "translation": [
+        3.632407583609165e-07,
+        0.763443112373352,
+        -4.456399267382949e-07
+      ]
+    },
+    {
+      "name": "BigBranch_02_03_Flower_03_Petal_03.001_34",
+      "rotation": [
+        -0.6812683343887329,
+        0.1305835098028183,
+        0.35585325956344604,
+        0.6262507438659668
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        0.9999998807907104
+      ],
+      "translation": [
+        4.4566081669472624e-07,
+        0.7634419202804565,
+        -4.710794598850043e-07
+      ]
+    },
+    {
+      "name": "BigBranch_02_03_Flower_03_Petal_04.001_35",
+      "rotation": [
+        0.058544110506772995,
+        0.05288245901465416,
+        0.4219573140144348,
+        0.9031766653060913
+      ],
+      "scale": [
+        0.9999998807907104,
+        1.0000001192092896,
+        1.0
+      ],
+      "translation": [
+        -4.6010333676349546e-07,
+        0.7634420394897461,
+        2.513649732804879e-09
+      ]
+    },
+    {
+      "name": "BigBranch_02_03_Flower_03_Petal_05.001_36",
+      "rotation": [
+        0.03129657730460167,
+        0.05485468730330467,
+        0.15602998435497284,
+        0.985731303691864
+      ],
+      "scale": [
+        0.9999999403953552,
+        0.9999998807907104,
+        1.0
+      ],
+      "translation": [
+        -2.3607533705671813e-09,
+        0.7634422779083252,
+        -2.906183453887934e-07
+      ]
+    },
+    {
+      "name": "BigBranch_02_03_Flower_03_Petal_06.001_37",
+      "rotation": [
+        -0.2888725697994232,
+        -0.0010187746956944466,
+        0.0003047384088858962,
+        0.9573670029640198
+      ],
+      "scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.000000238418579
+      ],
+      "translation": [
+        2.4666286790875347e-08,
+        0.763441801071167,
+        1.1135453803490236e-07
+      ]
+    },
+    {
+      "name": "BigBranch_02_03_Flower_03_Petal_07.001_38",
+      "rotation": [
+        -0.43089258670806885,
+        -0.06761576980352402,
+        0.26819539070129395,
+        0.8589708805084229
+      ],
+      "scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "translation": [
+        1.1071687140429276e-06,
+        0.7634423971176147,
+        6.264887986162648e-08
+      ]
+    },
+    {
+      "children": [
+        54
+      ],
+      "name": "BigBranch_02_04_01.001_51",
+      "rotation": [
+        0.18836763501167297,
+        0.028002234175801277,
+        0.05436280742287636,
+        0.9801929593086243
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        0.9999998807907104
+      ],
+      "translation": [
+        -1.0343944367718905e-08,
+        0.6060417294502258,
+        3.737920337698597e-07
+      ]
+    },
+    {
+      "children": [
+        55
+      ],
+      "name": "BigBranch_02_04_02.001_50",
+      "rotation": [
+        -0.21728967130184174,
+        -0.02560667134821415,
+        -0.05941002443432808,
+        0.9739609360694885
+      ],
+      "scale": [
+        1.0,
+        0.9999999403953552,
+        0.9999998807907104
+      ],
+      "translation": [
+        -1.9286797225959162e-07,
+        1.0594090223312378,
+        -1.9945264284615405e-07
+      ]
+    },
+    {
+      "children": [
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "name": "BigBranch_02_04_Flower_04.001_49",
+      "rotation": [
+        -0.2340831309556961,
+        -0.027125276625156403,
+        -0.12415469437837601,
+        0.9638749361038208
+      ],
+      "scale": [
+        1.0000001192092896,
+        1.000000238418579,
+        1.000000238418579
+      ],
+      "translation": [
+        -4.7277285375457723e-07,
+        1.1277235746383667,
+        4.537598101705953e-07
+      ]
+    },
+    {
+      "name": "BigBranch_02_04_Flower_04_Petal_01.001_42",
+      "rotation": [
+        0.0,
+        0.045595478266477585,
+        -0.03880716487765312,
+        0.9982059597969055
+      ],
+      "scale": [
+        0.20000000298023224,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ],
+      "translation": [
+        6.538442107739684e-07,
+        1.070702314376831,
+        -4.043355374960811e-07
+      ]
+    },
+    {
+      "name": "BigBranch_02_04_Flower_04_Petal_02.001_43",
+      "rotation": [
+        -0.448447585105896,
+        -0.05292192101478577,
+        -0.09012854844331741,
+        0.8876772522926331
+      ],
+      "scale": [
+        1.000000238418579,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "translation": [
+        7.037797331577167e-07,
+        1.070702075958252,
+        -4.3821728468174115e-09
+      ]
+    },
+    {
+      "name": "BigBranch_02_04_Flower_04_Petal_03.001_44",
+      "rotation": [
+        0.31733575463294983,
+        0.004645937588065863,
+        0.657278299331665,
+        0.6835654377937317
+      ],
+      "scale": [
+        1.0000003576278687,
+        1.0000003576278687,
+        1.0000001192092896
+      ],
+      "translation": [
+        9.515420060779434e-07,
+        1.070702314376831,
+        -3.138519844014809e-08
+      ]
+    },
+    {
+      "name": "BigBranch_02_04_Flower_04_Petal_04.001_45",
+      "rotation": [
+        -0.3138425052165985,
+        0.016528518870472908,
+        0.3437809944152832,
+        0.8848979473114014
+      ],
+      "scale": [
+        1.0000001192092896,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        9.779018910194281e-07,
+        1.0707017183303833,
+        -3.7439750855128295e-08
+      ]
+    },
+    {
+      "name": "BigBranch_02_04_Flower_04_Petal_05.001_46",
+      "rotation": [
+        0.3525719940662384,
+        -0.01061644870787859,
+        -0.06369572132825851,
+        0.9335540533065796
+      ],
+      "scale": [
+        1.0000001192092896,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        3.5762786865234375e-07,
+        1.0707019567489624,
+        -2.086162567138672e-07
+      ]
+    },
+    {
+      "name": "BigBranch_02_04_Flower_04_Petal_06.001_47",
+      "rotation": [
+        0.10918363183736801,
+        0.20392970740795135,
+        0.34278929233551025,
+        0.9104872941970825
+      ],
+      "scale": [
+        1.000000238418579,
+        1.0000001192092896,
+        1.0
+      ],
+      "translation": [
+        3.737875431397697e-07,
+        1.0707018375396729,
+        -3.55301210674952e-07
+      ]
+    },
+    {
+      "name": "BigBranch_02_04_Flower_04_Petal_07.001_48",
+      "rotation": [
+        -0.05640947073698044,
+        -0.026349658146500587,
+        -0.1824387013912201,
+        0.9812439680099487
+      ],
+      "scale": [
+        0.9999999403953552,
+        1.000000238418579,
+        1.000000238418579
+      ],
+      "translation": [
+        6.340183631436958e-07,
+        1.0707024335861206,
+        -1.2341354604927801e-08
+      ]
+    },
+    {
+      "name": "BigBranch_02_02_Flower_02.001_53",
+      "rotation": [
+        -0.5706234574317932,
+        0.10450918972492218,
+        0.05055031552910805,
+        0.8129645586013794
+      ],
+      "scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "translation": [
+        2.1457606180774746e-07,
+        1.2498303651809692,
+        -4.6286146471175016e-08
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_05.001_56",
+      "rotation": [
+        0.24602197110652924,
+        0.28255513310432434,
+        0.6526880860328674,
+        0.6585090160369873
+      ],
+      "scale": [
+        1.0,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "translation": [
+        -3.9087436221052485e-07,
+        3.4804985523223877,
+        7.294204351637745e-09
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_01.001_57",
+      "rotation": [
+        0.8963326811790466,
+        0.00275343912653625,
+        -0.36835241317749023,
+        0.24677255749702454
+      ],
+      "scale": [
+        1.0000001192092896,
+        1.0,
+        0.9999997019767761
+      ],
+      "translation": [
+        3.5311146007188654e-08,
+        3.4804980754852295,
+        -5.034961247929459e-08
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_02.001_58",
+      "rotation": [
+        -0.8771218657493591,
+        -0.09539002925157547,
+        0.09760874509811401,
+        0.46046775579452515
+      ],
+      "scale": [
+        1.000000238418579,
+        1.0000001192092896,
+        1.0
+      ],
+      "translation": [
+        2.3702222051724675e-07,
+        3.4804983139038086,
+        -8.783497378317406e-07
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_03.001_59",
+      "rotation": [
+        0.06896349042654037,
+        0.016805114224553108,
+        -0.20018742978572845,
+        0.9771829843521118
+      ],
+      "scale": [
+        1.0000001192092896,
+        0.9999998807907104,
+        0.9999999403953552
+      ],
+      "translation": [
+        6.465876367656165e-07,
+        3.4804978370666504,
+        -2.3660632564315165e-07
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_04.001_60",
+      "rotation": [
+        0.606002688407898,
+        0.00022893967980053276,
+        0.03661784529685974,
+        0.7946193218231201
+      ],
+      "scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.000000238418579
+      ],
+      "translation": [
+        2.0194320882183092e-07,
+        3.4804980754852295,
+        -9.385992427723977e-08
+      ]
+    },
+    {
+      "name": "SmallBranch_Petal_01_Fix_62",
+      "rotation": [
+        0.35725483298301697,
+        -0.18476305902004242,
+        -0.9006659388542175,
+        0.1644161343574524
+      ],
+      "scale": [
+        0.9999999403953552,
+        0.9999999403953552,
+        0.9999997019767761
+      ],
+      "translation": [
+        -4.300212383270264,
+        5.218900680541992,
+        0.39688533544540405
+      ]
+    },
+    {
+      "children": [
+        71
+      ],
+      "name": "SmallBranch_Petal_02_01_Fix_64",
+      "rotation": [
+        -0.9858472347259521,
+        -0.09921160340309143,
+        -0.12097229063510895,
+        0.060233112424612045
+      ],
+      "scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "translation": [
+        -4.300212383270264,
+        5.21890115737915,
+        0.3968855142593384
+      ]
+    },
+    {
+      "name": "SmallBranch_Petal_02_02_63",
+      "rotation": [
+        -0.21972499787807465,
+        -0.010700508020818233,
+        -0.06195633113384247,
+        0.9735336899757385
+      ],
+      "scale": [
+        1.0,
+        1.0000001192092896,
+        0.9999999403953552
+      ],
+      "translation": [
+        2.2856956150008045e-07,
+        2.2420830726623535,
+        1.8560630365982433e-08
+      ]
+    },
+    {
+      "children": [
+        73
+      ],
+      "name": "SmallBranch_Petal_03_01_FIx_66",
+      "rotation": [
+        -0.9279548525810242,
+        0.12569527328014374,
+        0.3078163266181946,
+        0.16837355494499207
+      ],
+      "scale": [
+        0.9999998807907104,
+        1.0,
+        0.9999999403953552
+      ],
+      "translation": [
+        -4.300212860107422,
+        5.21890115737915,
+        0.3968855142593384
+      ]
+    },
+    {
+      "name": "SmallBranch_Petal_03_02_65",
+      "rotation": [
+        -0.33284738659858704,
+        -0.06945690512657166,
+        0.003301933640614152,
+        0.9404134750366211
+      ],
+      "scale": [
+        0.9999999403953552,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        9.454026894673007e-07,
+        2.6158604621887207,
+        3.679643043597025e-07
+      ]
+    },
+    {
+      "name": "SmallBranch_Petal_04_Fix_67",
+      "rotation": [
+        -0.7525723576545715,
+        0.2511660158634186,
+        0.3623495101928711,
+        0.4891352951526642
+      ],
+      "translation": [
+        -4.300212383270264,
+        5.21890115737915,
+        0.39688512682914734
+      ]
+    },
+    {
+      "name": "SmallBranch_Petal_05_Fix_68",
+      "rotation": [
+        -0.5997864603996277,
+        0.39245548844337463,
+        0.35999560356140137,
+        0.5971918702125549
+      ],
+      "scale": [
+        0.9999999403953552,
+        0.9999998807907104,
+        0.9999999403953552
+      ],
+      "translation": [
+        -4.30021333694458,
+        5.21890115737915,
+        0.396885484457016
+      ]
+    },
+    {
+      "name": "SmallBranch_Petal_06_Fix_69",
+      "rotation": [
+        -0.04571793973445892,
+        0.9782764315605164,
+        -0.05372006446123123,
+        0.19493399560451508
+      ],
+      "scale": [
+        0.9999999403953552,
+        0.9999998211860657,
+        1.0
+      ],
+      "translation": [
+        -4.300212860107422,
+        5.21890115737915,
+        0.3968857228755951
+      ]
+    },
+    {
+      "children": [
+        78
+      ],
+      "name": "SmallBranch_Petal_07_01_Fix_71",
+      "rotation": [
+        -0.6927148103713989,
+        -0.31463000178337097,
+        -0.5869754552841187,
+        0.2767924666404724
+      ],
+      "scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "translation": [
+        -4.3002119064331055,
+        5.218900680541992,
+        0.39688539505004883
+      ]
+    },
+    {
+      "name": "SmallBranch_Petal_07_02_70",
+      "rotation": [
+        -0.0586872398853302,
+        0.006527985446155071,
+        -0.2582293748855591,
+        0.9642773270606995
+      ],
+      "scale": [
+        0.9999999403953552,
+        0.9999999403953552,
+        1.0000001192092896
+      ],
+      "translation": [
+        -5.261138085188577e-07,
+        2.3134891986846924,
+        -3.002004689278692e-07
+      ]
+    },
+    {
+      "children": [
+        80,
+        81,
+        85
+      ],
+      "name": "SmallBranch_01_80",
+      "rotation": [
+        -0.4128512144088745,
+        -0.5776152610778809,
+        -0.4138811230659485,
+        0.5697516202926636
+      ],
+      "scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        0.9999999403953552
+      ],
+      "translation": [
+        -4.300212383270264,
+        5.218900680541992,
+        0.39688554406166077
+      ]
+    },
+    {
+      "name": "SmallBranch_Petal_08_72",
+      "rotation": [
+        0.3443576991558075,
+        0.00012918032007291913,
+        -0.0628185048699379,
+        0.9367345571517944
+      ],
+      "scale": [
+        1.0,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "translation": [
+        5.14690938757667e-08,
+        1.0286763906478882,
+        -3.2694777019059984e-07
+      ]
+    },
+    {
+      "children": [
+        82
+      ],
+      "name": "SmallBranch_02_76",
+      "rotation": [
+        0.055120885372161865,
+        -0.010360080748796463,
+        0.15429162979125977,
+        0.9864321947097778
+      ],
+      "scale": [
+        1.0,
+        0.9999999403953552,
+        0.9999998807907104
+      ],
+      "translation": [
+        -1.4259671843319666e-07,
+        1.0286765098571777,
+        -4.453417545846605e-07
+      ]
+    },
+    {
+      "children": [
+        83
+      ],
+      "name": "SmallBranch_02_01_75",
+      "rotation": [
+        0.010802664794027805,
+        -0.00038298050640150905,
+        -0.1150750070810318,
+        0.9932979941368103
+      ],
+      "scale": [
+        0.9999998807907104,
+        0.9999997615814209,
+        0.9999997019767761
+      ],
+      "translation": [
+        3.3793439158102956e-09,
+        1.2970088720321655,
+        5.933093234489206e-07
+      ]
+    },
+    {
+      "children": [
+        84
+      ],
+      "name": "SmallBranch_02_02_74",
+      "rotation": [
+        -0.48403435945510864,
+        0.06267882138490677,
+        -0.2471141666173935,
+        0.8370882272720337
+      ],
+      "scale": [
+        1.0,
+        0.9999998807907104,
+        0.9999999403953552
+      ],
+      "translation": [
+        2.283477726905403e-07,
+        1.967638373374939,
+        -3.718525078966195e-07
+      ]
+    },
+    {
+      "name": "SmallBranch_02_Flower_01_73",
+      "rotation": [
+        -0.037952274084091187,
+        0.1479347050189972,
+        -0.13876363635063171,
+        0.9784782528877258
+      ],
+      "scale": [
+        0.9999998807907104,
+        0.9999997615814209,
+        1.0000001192092896
+      ],
+      "translation": [
+        2.290666429871635e-07,
+        2.2482213973999023,
+        7.831013135728426e-07
+      ]
+    },
+    {
+      "children": [
+        86
+      ],
+      "name": "SmallBranch_03_79",
+      "rotation": [
+        -0.02892419695854187,
+        -0.10378621518611908,
+        0.13107581436634064,
+        0.9855003356933594
+      ],
+      "translation": [
+        2.6098980754341028e-08,
+        1.02867591381073,
+        -3.82417340460961e-07
+      ]
+    },
+    {
+      "children": [
+        87
+      ],
+      "name": "SmallBranch_03_01_78",
+      "rotation": [
+        -0.2540125548839569,
+        0.02418055385351181,
+        0.06759583950042725,
+        0.9645329117774963
+      ],
+      "translation": [
+        1.8169592408412427e-07,
+        2.2826573848724365,
+        5.163644232197839e-07
+      ]
+    },
+    {
+      "name": "SmallBranch_03_Flower_02_77",
+      "rotation": [
+        -0.3478989005088806,
+        -0.11294381320476532,
+        -0.018643101677298546,
+        0.930517315864563
+      ],
+      "scale": [
+        0.9999998807907104,
+        1.0,
+        0.9999998807907104
+      ],
+      "translation": [
+        -1.405918084174118e-07,
+        2.0427744388580322,
+        -4.7196454033837654e-07
+      ]
+    },
+    {
+      "children": [
+        89,
+        137,
+        138,
+        140,
+        142,
+        143,
+        144,
+        145,
+        147
+      ],
+      "name": "05_Colibri_Bird.003_149"
+    },
+    {
+      "children": [
+        90,
+        132,
+        133,
+        134,
+        135,
+        136
+      ],
+      "name": "BigBranch_Root.001_129",
+      "rotation": [
+        -0.08291587978601456,
+        -0.543691873550415,
+        -0.38658398389816284,
+        0.7403222322463989
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0000001192092896
+      ],
+      "translation": [
+        -7.042405605316162,
+        -7.696889877319336,
+        -0.4943867623806
+      ]
+    },
+    {
+      "children": [
+        91,
+        109
+      ],
+      "name": "BigBranch_01.001_123",
+      "rotation": [
+        -0.179103285074234,
+        -0.0540609210729599,
+        -0.11148983985185623,
+        0.9759966731071472
+      ],
+      "scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        0.9999998807907104
+      ],
+      "translation": [
+        4.544558862562553e-07,
+        3.4804978370666504,
+        -3.9918631955515593e-07
+      ]
+    },
+    {
+      "children": [
+        92,
+        107,
+        108
+      ],
+      "name": "BigBranch_02.001_99",
+      "rotation": [
+        0.0011019310913980007,
+        -0.016393279656767845,
+        -0.02203037217259407,
+        0.9996222853660583
+      ],
+      "scale": [
+        1.0,
+        0.9999999403953552,
+        1.0
+      ],
+      "translation": [
+        2.5526759372951346e-08,
+        1.6229052543640137,
+        -3.303208586658002e-07
+      ]
+    },
+    {
+      "children": [
+        93,
+        105,
+        106
+      ],
+      "name": "BigBranch_03.001_96",
+      "rotation": [
+        -0.14123445749282837,
+        -0.010955157689750195,
+        -0.03303764760494232,
+        0.9893641471862793
+      ],
+      "scale": [
+        0.9999998211860657,
+        0.9999998211860657,
+        0.9999998211860657
+      ],
+      "translation": [
+        3.369492560523213e-07,
+        1.2515424489974976,
+        2.63918934706453e-07
+      ]
+    },
+    {
+      "children": [
+        94
+      ],
+      "name": "BigBranch_04.001_93",
+      "rotation": [
+        -0.08068821579217911,
+        -0.0014010501326993108,
+        0.1283785104751587,
+        0.9884364604949951
+      ],
+      "scale": [
+        1.0000001192092896,
+        0.9999999403953552,
+        1.0000001192092896
+      ],
+      "translation": [
+        1.5701846223237226e-07,
+        1.7909151315689087,
+        -5.695865183952264e-07
+      ]
+    },
+    {
+      "children": [
+        95,
+        101,
+        102,
+        103
+      ],
+      "name": "BigBranch_05.001_92",
+      "rotation": [
+        -0.15837250649929047,
+        0.005874517373740673,
+        -0.04291611164808273,
+        0.9864288568496704
+      ],
+      "scale": [
+        1.0,
+        0.9999999403953552,
+        1.0
+      ],
+      "translation": [
+        -8.20426606651381e-08,
+        2.298910140991211,
+        -1.0620027524055331e-07
+      ]
+    },
+    {
+      "children": [
+        96
+      ],
+      "name": "BigBranch_06.001_87",
+      "rotation": [
+        0.47378280758857727,
+        0.06353019922971725,
+        0.08788494020700455,
+        0.8739393353462219
+      ],
+      "scale": [
+        1.0000001192092896,
+        1.0,
+        0.9999999403953552
+      ],
+      "translation": [
+        -2.6743862235889537e-07,
+        1.498831868171692,
+        -6.775665042368928e-07
+      ]
+    },
+    {
+      "children": [
+        97
+      ],
+      "name": "BigBranch_07.001_86",
+      "rotation": [
+        -0.15284542739391327,
+        -0.009138555265963078,
+        -0.015419183298945427,
+        0.9880875945091248
+      ],
+      "translation": [
+        5.960464477539063e-08,
+        1.4320824146270752,
+        -1.1920928955078125e-07
+      ]
+    },
+    {
+      "children": [
+        98
+      ],
+      "name": "BigBranch_08.001_85",
+      "rotation": [
+        0.33157214522361755,
+        0.03281979262828827,
+        0.2020416259765625,
+        0.920957088470459
+      ],
+      "scale": [
+        0.9999999403953552,
+        0.9999999403953552,
+        1.0
+      ],
+      "translation": [
+        -3.982653424827731e-07,
+        1.1441224813461304,
+        -2.363448174946825e-07
+      ]
+    },
+    {
+      "children": [
+        99
+      ],
+      "name": "BigBranch_09.001_84",
+      "rotation": [
+        0.20953212678432465,
+        0.032446663826704025,
+        0.03809055685997009,
+        0.9765207171440125
+      ],
+      "scale": [
+        0.9999999403953552,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        -6.692965826005093e-07,
+        1.2327536344528198,
+        -1.0354847290727776e-06
+      ]
+    },
+    {
+      "children": [
+        100
+      ],
+      "name": "BigBranch_10.001_83",
+      "rotation": [
+        0.3422452509403229,
+        0.05707492679357529,
+        0.17476065456867218,
+        0.921449601650238
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        0.9999998807907104
+      ],
+      "translation": [
+        6.027396182162192e-08,
+        1.145497441291809,
+        -4.740042243156495e-07
+      ]
+    },
+    {
+      "name": "BigBranch_Flower_01.001_82",
+      "rotation": [
+        0.06505266577005386,
+        0.002641294151544571,
+        0.15845252573490143,
+        0.9852177500724792
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0000001192092896
+      ],
+      "translation": [
+        4.810590326087549e-08,
+        0.7941505312919617,
+        1.4777486967432196e-07
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_11.001_88",
+      "rotation": [
+        0.624914824962616,
+        -0.16232724487781525,
+        -0.07951728254556656,
+        0.7594789862632751
+      ],
+      "translation": [
+        -4.2087998508577584e-07,
+        1.498832106590271,
+        -2.617307472974062e-07
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_12.001_89",
+      "rotation": [
+        0.8190694451332092,
+        -0.11711545288562775,
+        0.5002607107162476,
+        0.25524193048477173
+      ],
+      "scale": [
+        0.999999463558197,
+        0.9999998807907104,
+        0.9999998211860657
+      ],
+      "translation": [
+        -4.2333758187851345e-07,
+        1.4988319873809814,
+        -5.111793370815576e-07
+      ]
+    },
+    {
+      "children": [
+        104
+      ],
+      "name": "BigBranch_Leaf_13.001_91",
+      "rotation": [
+        0.29285410046577454,
+        -0.005395064130425453,
+        -0.03375717252492905,
+        0.9555458426475525
+      ],
+      "scale": [
+        1.0000001192092896,
+        0.9999999403953552,
+        1.0000001192092896
+      ],
+      "translation": [
+        -5.275660441839136e-08,
+        1.4988319873809814,
+        -4.789621357303986e-07
+      ]
+    },
+    {
+      "name": "BigBranchLeaf_13_01.001_90",
+      "rotation": [
+        -0.18473437428474426,
+        -0.036156050860881805,
+        0.026052171364426613,
+        0.9817776083946228
+      ],
+      "scale": [
+        1.0,
+        1.000000238418579,
+        1.0
+      ],
+      "translation": [
+        -6.446019256145519e-07,
+        1.4271022081375122,
+        2.0605577333299152e-07
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_08.001_94",
+      "rotation": [
+        0.5525120496749878,
+        0.2907167077064514,
+        0.28120484948158264,
+        0.7287922501564026
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        0.9999999403953552
+      ],
+      "translation": [
+        1.6391277313232422e-07,
+        1.7909151315689087,
+        -8.940696716308594e-08
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_09.001_95",
+      "rotation": [
+        -0.6904704570770264,
+        -0.04054604843258858,
+        0.0902014970779419,
+        0.7165684103965759
+      ],
+      "scale": [
+        1.0000001192092896,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        -2.75566577556674e-07,
+        1.7909150123596191,
+        1.7653124473326898e-07
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_06.001_97",
+      "rotation": [
+        0.4943925440311432,
+        0.0006064880290068686,
+        0.2621404826641083,
+        0.8287690281867981
+      ],
+      "scale": [
+        1.0,
+        1.0000001192092896,
+        0.9999999403953552
+      ],
+      "translation": [
+        6.371364520418865e-07,
+        1.2515422105789185,
+        -6.193340595928021e-08
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_07.001_98",
+      "rotation": [
+        -0.5327678322792053,
+        -0.03477538749575615,
+        -0.1853300780057907,
+        0.8249859809875488
+      ],
+      "scale": [
+        0.9999999403953552,
+        1.0,
+        0.9999998807907104
+      ],
+      "translation": [
+        5.491904175869422e-07,
+        1.2515422105789185,
+        3.594130930650863e-07
+      ]
+    },
+    {
+      "children": [
+        110,
+        131
+      ],
+      "name": "BigBranch_02_01.001_122",
+      "rotation": [
+        -0.4575261175632477,
+        -0.07912289351224899,
+        -0.0800948217511177,
+        0.8820398449897766
+      ],
+      "scale": [
+        0.9999998807907104,
+        1.0,
+        0.9999999403953552
+      ],
+      "translation": [
+        -1.4044462659512646e-07,
+        1.6229052543640137,
+        -4.709039558292716e-07
+      ]
+    },
+    {
+      "children": [
+        111,
+        121
+      ],
+      "name": "BigBranch._02_02.001_120",
+      "rotation": [
+        0.2627973258495331,
+        0.04215224087238312,
+        0.022422686219215393,
+        0.9636690616607666
+      ],
+      "scale": [
+        0.9999999403953552,
+        0.9999998211860657,
+        1.0
+      ],
+      "translation": [
+        2.181301113068912e-07,
+        1.2498300075531006,
+        7.988078323251102e-07
+      ]
+    },
+    {
+      "children": [
+        112
+      ],
+      "name": "BigBranch_02_03_01.001_109",
+      "rotation": [
+        -0.397153377532959,
+        0.1438259780406952,
+        -0.16300557553768158,
+        0.8916347026824951
+      ],
+      "scale": [
+        0.9999998211860657,
+        0.9999999403953552,
+        1.0
+      ],
+      "translation": [
+        -5.33866398200189e-07,
+        0.6060412526130676,
+        8.490651453030296e-07
+      ]
+    },
+    {
+      "children": [
+        113
+      ],
+      "name": "BigBranch_02_03_02.001_108",
+      "rotation": [
+        0.02764078415930271,
+        -0.00822464283555746,
+        0.033572643995285034,
+        0.9990202188491821
+      ],
+      "scale": [
+        1.0,
+        0.9999998807907104,
+        1.0
+      ],
+      "translation": [
+        1.643461189360096e-07,
+        0.9467163681983948,
+        1.306739392248346e-07
+      ]
+    },
+    {
+      "children": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120
+      ],
+      "name": "BigBranch_02_03_Flower_03.001_107",
+      "rotation": [
+        0.0769859030842781,
+        0.00906980037689209,
+        -0.18469691276550293,
+        0.9797336459159851
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        0.9999999403953552
+      ],
+      "translation": [
+        -3.361543008395529e-07,
+        1.1266433000564575,
+        5.661145863200545e-08
+      ]
+    },
+    {
+      "name": "BigBranch_02_03_Flower_03_Petal_01.001_100",
+      "rotation": [
+        0.41803178191185,
+        -0.15375618636608124,
+        0.6197185516357422,
+        0.646186888217926
+      ],
+      "scale": [
+        1.0000001192092896,
+        1.0,
+        1.0000001192092896
+      ],
+      "translation": [
+        -4.801676709575986e-07,
+        0.763442873954773,
+        1.6761404708631744e-07
+      ]
+    },
+    {
+      "name": "BigBranch_02_03_Flower_03_Petal_02.001_101",
+      "rotation": [
+        -0.07853434234857559,
+        0.021985234692692757,
+        -0.22215460240840912,
+        0.9715947508811951
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        0.9999999403953552
+      ],
+      "translation": [
+        3.632407583609165e-07,
+        0.763443112373352,
+        -4.456399267382949e-07
+      ]
+    },
+    {
+      "name": "BigBranch_02_03_Flower_03_Petal_03.001_102",
+      "rotation": [
+        -0.6812683343887329,
+        0.1305835098028183,
+        0.35585325956344604,
+        0.6262507438659668
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        0.9999998807907104
+      ],
+      "translation": [
+        4.4566081669472624e-07,
+        0.7634419202804565,
+        -4.710794598850043e-07
+      ]
+    },
+    {
+      "name": "BigBranch_02_03_Flower_03_Petal_04.001_103",
+      "rotation": [
+        0.058544110506772995,
+        0.05288245901465416,
+        0.4219573140144348,
+        0.9031766653060913
+      ],
+      "scale": [
+        0.9999998807907104,
+        1.0000001192092896,
+        1.0
+      ],
+      "translation": [
+        -4.6010333676349546e-07,
+        0.7634420394897461,
+        2.513649732804879e-09
+      ]
+    },
+    {
+      "name": "BigBranch_02_03_Flower_03_Petal_05.001_104",
+      "rotation": [
+        0.03129657730460167,
+        0.05485468730330467,
+        0.15602998435497284,
+        0.985731303691864
+      ],
+      "scale": [
+        0.9999999403953552,
+        0.9999998807907104,
+        1.0
+      ],
+      "translation": [
+        -2.3607533705671813e-09,
+        0.7634422779083252,
+        -2.906183453887934e-07
+      ]
+    },
+    {
+      "name": "BigBranch_02_03_Flower_03_Petal_06.001_105",
+      "rotation": [
+        -0.2888725697994232,
+        -0.0010187746956944466,
+        0.0003047384088858962,
+        0.9573670029640198
+      ],
+      "scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.000000238418579
+      ],
+      "translation": [
+        2.4666286790875347e-08,
+        0.763441801071167,
+        1.1135453803490236e-07
+      ]
+    },
+    {
+      "name": "BigBranch_02_03_Flower_03_Petal_07.001_106",
+      "rotation": [
+        -0.43089258670806885,
+        -0.06761576980352402,
+        0.26819539070129395,
+        0.8589708805084229
+      ],
+      "scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "translation": [
+        1.1071687140429276e-06,
+        0.7634423971176147,
+        6.264887986162648e-08
+      ]
+    },
+    {
+      "children": [
+        122
+      ],
+      "name": "BigBranch_02_04_01.001_119",
+      "rotation": [
+        0.18836763501167297,
+        0.028002234175801277,
+        0.05436280742287636,
+        0.9801929593086243
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        0.9999998807907104
+      ],
+      "translation": [
+        -1.0343944367718905e-08,
+        0.6060417294502258,
+        3.737920337698597e-07
+      ]
+    },
+    {
+      "children": [
+        123
+      ],
+      "name": "BigBranch_02_04_02.001_118",
+      "rotation": [
+        -0.21728967130184174,
+        -0.02560667134821415,
+        -0.05941002443432808,
+        0.9739609360694885
+      ],
+      "scale": [
+        1.0,
+        0.9999999403953552,
+        0.9999998807907104
+      ],
+      "translation": [
+        -1.9286797225959162e-07,
+        1.0594090223312378,
+        -1.9945264284615405e-07
+      ]
+    },
+    {
+      "children": [
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130
+      ],
+      "name": "BigBranch_02_04_Flower_04.001_117",
+      "rotation": [
+        -0.2340831309556961,
+        -0.027125276625156403,
+        -0.12415469437837601,
+        0.9638749361038208
+      ],
+      "scale": [
+        1.0000001192092896,
+        1.000000238418579,
+        1.000000238418579
+      ],
+      "translation": [
+        -4.7277285375457723e-07,
+        1.1277235746383667,
+        4.537598101705953e-07
+      ]
+    },
+    {
+      "name": "BigBranch_02_04_Flower_04_Petal_01.001_110",
+      "rotation": [
+        0.0,
+        0.045595478266477585,
+        -0.03880716487765312,
+        0.9982059597969055
+      ],
+      "scale": [
+        0.20000000298023224,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ],
+      "translation": [
+        6.538442107739684e-07,
+        1.070702314376831,
+        -4.043355374960811e-07
+      ]
+    },
+    {
+      "name": "BigBranch_02_04_Flower_04_Petal_02.001_111",
+      "rotation": [
+        -0.448447585105896,
+        -0.05292192101478577,
+        -0.09012854844331741,
+        0.8876772522926331
+      ],
+      "scale": [
+        1.000000238418579,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "translation": [
+        7.037797331577167e-07,
+        1.070702075958252,
+        -4.3821728468174115e-09
+      ]
+    },
+    {
+      "name": "BigBranch_02_04_Flower_04_Petal_03.001_112",
+      "rotation": [
+        0.31733575463294983,
+        0.004645937588065863,
+        0.657278299331665,
+        0.6835654377937317
+      ],
+      "scale": [
+        1.0000003576278687,
+        1.0000003576278687,
+        1.0000001192092896
+      ],
+      "translation": [
+        9.515420060779434e-07,
+        1.070702314376831,
+        -3.138519844014809e-08
+      ]
+    },
+    {
+      "name": "BigBranch_02_04_Flower_04_Petal_04.001_113",
+      "rotation": [
+        -0.3138425052165985,
+        0.016528518870472908,
+        0.3437809944152832,
+        0.8848979473114014
+      ],
+      "scale": [
+        1.0000001192092896,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        9.779018910194281e-07,
+        1.0707017183303833,
+        -3.7439750855128295e-08
+      ]
+    },
+    {
+      "name": "BigBranch_02_04_Flower_04_Petal_05.001_114",
+      "rotation": [
+        0.3525719940662384,
+        -0.01061644870787859,
+        -0.06369572132825851,
+        0.9335540533065796
+      ],
+      "scale": [
+        1.0000001192092896,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        3.5762786865234375e-07,
+        1.0707019567489624,
+        -2.086162567138672e-07
+      ]
+    },
+    {
+      "name": "BigBranch_02_04_Flower_04_Petal_06.001_115",
+      "rotation": [
+        0.10918363183736801,
+        0.20392970740795135,
+        0.34278929233551025,
+        0.9104872941970825
+      ],
+      "scale": [
+        1.000000238418579,
+        1.0000001192092896,
+        1.0
+      ],
+      "translation": [
+        3.737875431397697e-07,
+        1.0707018375396729,
+        -3.55301210674952e-07
+      ]
+    },
+    {
+      "name": "BigBranch_02_04_Flower_04_Petal_07.001_116",
+      "rotation": [
+        -0.05640947073698044,
+        -0.026349658146500587,
+        -0.1824387013912201,
+        0.9812439680099487
+      ],
+      "scale": [
+        0.9999999403953552,
+        1.000000238418579,
+        1.000000238418579
+      ],
+      "translation": [
+        6.340183631436958e-07,
+        1.0707024335861206,
+        -1.2341354604927801e-08
+      ]
+    },
+    {
+      "name": "BigBranch_02_02_Flower_02.001_121",
+      "rotation": [
+        -0.5706234574317932,
+        0.10450918972492218,
+        0.05055031552910805,
+        0.8129645586013794
+      ],
+      "scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "translation": [
+        2.1457606180774746e-07,
+        1.2498303651809692,
+        -4.6286146471175016e-08
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_05.001_124",
+      "rotation": [
+        0.24602197110652924,
+        0.28255513310432434,
+        0.6526880860328674,
+        0.6585090160369873
+      ],
+      "scale": [
+        1.0,
+        1.0000001192092896,
+        1.0000001192092896
+      ],
+      "translation": [
+        -3.9087436221052485e-07,
+        3.4804985523223877,
+        7.294204351637745e-09
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_01.001_125",
+      "rotation": [
+        0.8963326811790466,
+        0.00275343912653625,
+        -0.36835241317749023,
+        0.24677255749702454
+      ],
+      "scale": [
+        1.0000001192092896,
+        1.0,
+        0.9999997019767761
+      ],
+      "translation": [
+        3.5311146007188654e-08,
+        3.4804980754852295,
+        -5.034961247929459e-08
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_02.001_126",
+      "rotation": [
+        -0.8771218657493591,
+        -0.09539002925157547,
+        0.09760874509811401,
+        0.46046775579452515
+      ],
+      "scale": [
+        1.000000238418579,
+        1.0000001192092896,
+        1.0
+      ],
+      "translation": [
+        2.3702222051724675e-07,
+        3.4804983139038086,
+        -8.783497378317406e-07
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_03.001_127",
+      "rotation": [
+        0.06896349042654037,
+        0.016805114224553108,
+        -0.20018742978572845,
+        0.9771829843521118
+      ],
+      "scale": [
+        1.0000001192092896,
+        0.9999998807907104,
+        0.9999999403953552
+      ],
+      "translation": [
+        6.465876367656165e-07,
+        3.4804978370666504,
+        -2.3660632564315165e-07
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_04.001_128",
+      "rotation": [
+        0.606002688407898,
+        0.00022893967980053276,
+        0.03661784529685974,
+        0.7946193218231201
+      ],
+      "scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        1.000000238418579
+      ],
+      "translation": [
+        2.0194320882183092e-07,
+        3.4804980754852295,
+        -9.385992427723977e-08
+      ]
+    },
+    {
+      "name": "SmallBranch_Petal_01_Fix_130",
+      "rotation": [
+        0.35725483298301697,
+        -0.18476305902004242,
+        -0.9006659388542175,
+        0.1644161343574524
+      ],
+      "scale": [
+        0.9999999403953552,
+        0.9999999403953552,
+        0.9999997019767761
+      ],
+      "translation": [
+        -4.300212383270264,
+        5.218900680541992,
+        0.39688533544540405
+      ]
+    },
+    {
+      "children": [
+        139
+      ],
+      "name": "SmallBranch_Petal_02_01_Fix_132",
+      "rotation": [
+        -0.9858472347259521,
+        -0.09921160340309143,
+        -0.12097229063510895,
+        0.060233112424612045
+      ],
+      "scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "translation": [
+        -4.300212383270264,
+        5.21890115737915,
+        0.3968855142593384
+      ]
+    },
+    {
+      "name": "SmallBranch_Petal_02_02_131",
+      "rotation": [
+        -0.21972499787807465,
+        -0.010700508020818233,
+        -0.06195633113384247,
+        0.9735336899757385
+      ],
+      "scale": [
+        1.0,
+        1.0000001192092896,
+        0.9999999403953552
+      ],
+      "translation": [
+        2.2856956150008045e-07,
+        2.2420830726623535,
+        1.8560630365982433e-08
+      ]
+    },
+    {
+      "children": [
+        141
+      ],
+      "name": "SmallBranch_Petal_03_01_FIx_134",
+      "rotation": [
+        -0.9279548525810242,
+        0.12569527328014374,
+        0.3078163266181946,
+        0.16837355494499207
+      ],
+      "scale": [
+        0.9999998807907104,
+        1.0,
+        0.9999999403953552
+      ],
+      "translation": [
+        -4.300212860107422,
+        5.21890115737915,
+        0.3968855142593384
+      ]
+    },
+    {
+      "name": "SmallBranch_Petal_03_02_133",
+      "rotation": [
+        -0.33284738659858704,
+        -0.06945690512657166,
+        0.003301933640614152,
+        0.9404134750366211
+      ],
+      "scale": [
+        0.9999999403953552,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        9.454026894673007e-07,
+        2.6158604621887207,
+        3.679643043597025e-07
+      ]
+    },
+    {
+      "name": "SmallBranch_Petal_04_Fix_135",
+      "rotation": [
+        -0.7525723576545715,
+        0.2511660158634186,
+        0.3623495101928711,
+        0.4891352951526642
+      ],
+      "translation": [
+        -4.300212383270264,
+        5.21890115737915,
+        0.39688512682914734
+      ]
+    },
+    {
+      "name": "SmallBranch_Petal_05_Fix_136",
+      "rotation": [
+        -0.5997864603996277,
+        0.39245548844337463,
+        0.35999560356140137,
+        0.5971918702125549
+      ],
+      "scale": [
+        0.9999999403953552,
+        0.9999998807907104,
+        0.9999999403953552
+      ],
+      "translation": [
+        -4.30021333694458,
+        5.21890115737915,
+        0.396885484457016
+      ]
+    },
+    {
+      "name": "SmallBranch_Petal_06_Fix_137",
+      "rotation": [
+        -0.04571793973445892,
+        0.9782764315605164,
+        -0.05372006446123123,
+        0.19493399560451508
+      ],
+      "scale": [
+        0.9999999403953552,
+        0.9999998211860657,
+        1.0
+      ],
+      "translation": [
+        -4.300212860107422,
+        5.21890115737915,
+        0.3968857228755951
+      ]
+    },
+    {
+      "children": [
+        146
+      ],
+      "name": "SmallBranch_Petal_07_01_Fix_139",
+      "rotation": [
+        -0.6927148103713989,
+        -0.31463000178337097,
+        -0.5869754552841187,
+        0.2767924666404724
+      ],
+      "scale": [
+        1.0,
+        1.0000001192092896,
+        1.0
+      ],
+      "translation": [
+        -4.3002119064331055,
+        5.218900680541992,
+        0.39688539505004883
+      ]
+    },
+    {
+      "name": "SmallBranch_Petal_07_02_138",
+      "rotation": [
+        -0.0586872398853302,
+        0.006527985446155071,
+        -0.2582293748855591,
+        0.9642773270606995
+      ],
+      "scale": [
+        0.9999999403953552,
+        0.9999999403953552,
+        1.0000001192092896
+      ],
+      "translation": [
+        -5.261138085188577e-07,
+        2.3134891986846924,
+        -3.002004689278692e-07
+      ]
+    },
+    {
+      "children": [
+        148,
+        149,
+        153
+      ],
+      "name": "SmallBranch_01_148",
+      "rotation": [
+        -0.4128512144088745,
+        -0.5776152610778809,
+        -0.4138811230659485,
+        0.5697516202926636
+      ],
+      "scale": [
+        1.0000001192092896,
+        1.0000001192092896,
+        0.9999999403953552
+      ],
+      "translation": [
+        -4.300212383270264,
+        5.218900680541992,
+        0.39688554406166077
+      ]
+    },
+    {
+      "name": "SmallBranch_Petal_08_140",
+      "rotation": [
+        0.3443576991558075,
+        0.00012918032007291913,
+        -0.0628185048699379,
+        0.9367345571517944
+      ],
+      "scale": [
+        1.0,
+        0.9999999403953552,
+        0.9999999403953552
+      ],
+      "translation": [
+        5.14690938757667e-08,
+        1.0286763906478882,
+        -3.2694777019059984e-07
+      ]
+    },
+    {
+      "children": [
+        150
+      ],
+      "name": "SmallBranch_02_144",
+      "rotation": [
+        0.055120885372161865,
+        -0.010360080748796463,
+        0.15429162979125977,
+        0.9864321947097778
+      ],
+      "scale": [
+        1.0,
+        0.9999999403953552,
+        0.9999998807907104
+      ],
+      "translation": [
+        -1.4259671843319666e-07,
+        1.0286765098571777,
+        -4.453417545846605e-07
+      ]
+    },
+    {
+      "children": [
+        151
+      ],
+      "name": "SmallBranch_02_01_143",
+      "rotation": [
+        0.010802664794027805,
+        -0.00038298050640150905,
+        -0.1150750070810318,
+        0.9932979941368103
+      ],
+      "scale": [
+        0.9999998807907104,
+        0.9999997615814209,
+        0.9999997019767761
+      ],
+      "translation": [
+        3.3793439158102956e-09,
+        1.2970088720321655,
+        5.933093234489206e-07
+      ]
+    },
+    {
+      "children": [
+        152
+      ],
+      "name": "SmallBranch_02_02_142",
+      "rotation": [
+        -0.48403435945510864,
+        0.06267882138490677,
+        -0.2471141666173935,
+        0.8370882272720337
+      ],
+      "scale": [
+        1.0,
+        0.9999998807907104,
+        0.9999999403953552
+      ],
+      "translation": [
+        2.283477726905403e-07,
+        1.967638373374939,
+        -3.718525078966195e-07
+      ]
+    },
+    {
+      "name": "SmallBranch_02_Flower_01_141",
+      "rotation": [
+        -0.037952274084091187,
+        0.1479347050189972,
+        -0.13876363635063171,
+        0.9784782528877258
+      ],
+      "scale": [
+        0.9999998807907104,
+        0.9999997615814209,
+        1.0000001192092896
+      ],
+      "translation": [
+        2.290666429871635e-07,
+        2.2482213973999023,
+        7.831013135728426e-07
+      ]
+    },
+    {
+      "children": [
+        154
+      ],
+      "name": "SmallBranch_03_147",
+      "rotation": [
+        -0.02892419695854187,
+        -0.10378621518611908,
+        0.13107581436634064,
+        0.9855003356933594
+      ],
+      "translation": [
+        2.6098980754341028e-08,
+        1.02867591381073,
+        -3.82417340460961e-07
+      ]
+    },
+    {
+      "children": [
+        155
+      ],
+      "name": "SmallBranch_03_01_146",
+      "rotation": [
+        -0.2540125548839569,
+        0.02418055385351181,
+        0.06759583950042725,
+        0.9645329117774963
+      ],
+      "translation": [
+        1.8169592408412427e-07,
+        2.2826573848724365,
+        5.163644232197839e-07
+      ]
+    },
+    {
+      "name": "SmallBranch_03_Flower_02_145",
+      "rotation": [
+        -0.3478989005088806,
+        -0.11294381320476532,
+        -0.018643101677298546,
+        0.930517315864563
+      ],
+      "scale": [
+        0.9999998807907104,
+        1.0,
+        0.9999998807907104
+      ],
+      "translation": [
+        -1.405918084174118e-07,
+        2.0427744388580322,
+        -4.7196454033837654e-07
+      ]
+    },
+    {
+      "children": [
+        157,
+        159,
+        162,
+        165,
+        167,
+        169,
+        171,
+        173
+      ],
+      "matrix": [
+        1.1778643529761876,
+        0.19426903413504162,
+        0.13530974550975813,
+        0.0,
+        -0.17417057100916622,
+        0.24596539458079136,
+        1.163004532308438,
+        0.0,
+        0.1603552561371646,
+        -1.159816565178469,
+        0.2693058340877791,
+        0.0,
+        -5.762548923492432,
+        7.35782527923584,
+        0.395406574010849,
+        1.0
+      ],
+      "name": "05_Colibri_SmallBrach_174"
+    },
+    {
+      "children": [
+        158
+      ],
+      "name": "SmallBranch_Petal_07_151",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "SmallBranch_Petal_07_01_150",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        160
+      ],
+      "name": "SmallBranch_Petal_06_154",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        161
+      ],
+      "name": "SmallBranch_Petal_06_01_153",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "SmallBranch_Petal_06_02_152",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        163
+      ],
+      "name": "SmallBranch_Petal_05_157",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        164
+      ],
+      "name": "SmallBranch_Petal_05_01_156",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "SmallBranch_Petal_05_02_155",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        166
+      ],
+      "name": "SmallBranch_Petal_03_159",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "SmallBranch_Petal_03_01_158",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        168
+      ],
+      "name": "SmallBranch_Petal_04_161",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "SmallBranch_Petal_04_01_160",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        170
+      ],
+      "name": "SmallBranch_Petal_02_163",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "SmallBranch_Petal_02_01_162",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        172
+      ],
+      "name": "SmallBranch_Petal_01_165",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "SmallBranch_Petal_01_01_164",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        174,
+        177
+      ],
+      "name": "SmallBranch_Leaf_to_Branch_173",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        175
+      ],
+      "name": "SmallBranch_Branch_02_168",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        176
+      ],
+      "name": "SmallBranch_Branch_02_01_167",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "SmallBranch_Branch_02_Flower_02_166",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        178
+      ],
+      "name": "SmallBranch_Branch_01_172",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        179
+      ],
+      "name": "SmallBranch_Branch_01_01_171",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        180
+      ],
+      "name": "SmallBranch_Branch_01_02_170",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "SmallBranch_Branch_01_Flower_01_169",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        182
+      ],
+      "matrix": [
+        0.9768694891820298,
+        0.13013917014919293,
+        0.1696755654127008,
+        0.0,
+        -0.12536186035645677,
+        -0.2942885828794446,
+        0.9474590407794821,
+        0.0,
+        0.17323511501196437,
+        -0.9468146737243184,
+        -0.27116704915439804,
+        0.0,
+        -7.704488277435303,
+        -8.387751579284668,
+        -1.3023438453674316,
+        1.0
+      ],
+      "name": "05_Colibri_BigBrach_215"
+    },
+    {
+      "children": [
+        183,
+        219,
+        220,
+        221
+      ],
+      "name": "BigBranch_01_214",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        184,
+        218
+      ],
+      "name": "BigBranch_02_210",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        185,
+        201
+      ],
+      "name": "BigBranch_03_208",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        186,
+        199,
+        200
+      ],
+      "name": "BigBranch_04_190",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        187
+      ],
+      "name": "BigBranch_05_187",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        188
+      ],
+      "name": "BigBranch_06_186",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        189,
+        195,
+        196,
+        198
+      ],
+      "name": "BigBranch_07_185",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        190
+      ],
+      "name": "BigBranch_08_180",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        191
+      ],
+      "name": "BigBranch_09_179",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        192
+      ],
+      "name": "BigBranch_10_178",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        193
+      ],
+      "name": "BigBranch_11_177",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        194
+      ],
+      "name": "BigBranch_12_176",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "BigBranch_Flower_04_175",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_07_181",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        197
+      ],
+      "name": "BigBranch_Leaf_08_01_183",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_08_02_182",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_06_184",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_05_188",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_04_189",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        202,
+        216
+      ],
+      "name": "BigBranch_SmallBranch_02_207",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        203,
+        209
+      ],
+      "name": "BigBranch_SmallBranch_03_204",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        204
+      ],
+      "name": "BigBranch_SmallBranch_04_196",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        205,
+        206,
+        207,
+        208
+      ],
+      "name": "BigBranch_Flower_02_195",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "BigBranch_Flower_02_01_191",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "BigBranch_Flower_02_03_192",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "BigBranch_Flower_02_04_193",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "BigBranch_Flower_02_02_194",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        210
+      ],
+      "name": "BigBranch_SmallBranch_05_203",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        211
+      ],
+      "name": "BigBranch_SmallBranch_06_202",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        212,
+        213,
+        214,
+        215
+      ],
+      "name": "BigBranch_Flower_03_201",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "BigBranch_Flower_03_01_197",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "BigBranch_Flower_03_02_198",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "BigBranch_Flower_03_03_199",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "BigBranch_Flower_03_04_200",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "children": [
+        217
+      ],
+      "name": "BigBranch_Flower_01_206",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "BigBranch_Flower_01_01_205",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "BigBranch_SmallBranch_01_209",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_01_211",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_03_212",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    },
+    {
+      "name": "BigBranch_Leaf_02_213",
+      "rotation": [
+        0.0,
+        0.0,
+        1.0,
+        0.0
+      ],
+      "scale": [
+        1.000000013351432e-10,
+        1.000000013351432e-10,
+        1.000000013351432e-10
+      ]
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "skins": [
+    {
+      "inverseBindMatrices": 4,
+      "joints": [
+        5,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "skeleton": 5
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
